@@ -2,4 +2,4 @@
 *.exe
 compile.class
 conexionbd.java
-
+\nodemodules
